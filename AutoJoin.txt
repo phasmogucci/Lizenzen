@@ -2,7 +2,7 @@
   "status": "ON",
   "licenses": [
     {
-      "key": "0c8b1c0e-2c1a-4a8a-9b9a-111111111111",
+      "key": "b85224c9-60bb-4d5b-8623-a778176c6b59",
       "user": "User01",
       "expires": "2025-03-15"
     },
