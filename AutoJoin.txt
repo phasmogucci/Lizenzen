@@ -1,12 +1,55 @@
 {
-  "users": [
+  "status": "ON",
+  "licenses": [
     {
-      "uuid": "b85224c9-60bb-4d5b-8623-a778176c6b59",
-      "expires": "2026-01-31"
+      "key": "0c8b1c0e-2c1a-4a8a-9b9a-111111111111",
+      "user": "User01",
+      "expires": "2025-03-15"
     },
     {
-      "uuid": "987e6543-e21b-34d3-a456-426614174111",
+      "key": "1d9a2e1f-3d2b-5b9b-acab-222222222222",
+      "user": "User02",
+      "expires": "2025-06-01"
+    },
+    {
+      "key": "2ea3f320-4e3c-6caa-bdbc-333333333333",
+      "user": "User03",
       "expires": "2025-12-31"
+    },
+    {
+      "key": "3fb4a431-5f4d-7dbb-cecd-444444444444",
+      "user": "User04",
+      "expires": "2026-01-20"
+    },
+    {
+      "key": "4ac5b542-605e-8ecc-dede-555555555555",
+      "user": "User05",
+      "expires": "2024-11-30"
+    },
+    {
+      "key": "5bd6c653-716f-9fdd-efef-666666666666",
+      "user": "User06",
+      "expires": "LIFETIME"
+    },
+    {
+      "key": "6ce7d764-8270-afee-f0f0-777777777777",
+      "user": "User07",
+      "expires": "2027-08-10"
+    },
+    {
+      "key": "7df8e875-9381-b0ff-0101-888888888888",
+      "user": "User08",
+      "expires": "2025-01-01"
+    },
+    {
+      "key": "8e09f986-a492-c100-1212-999999999999",
+      "user": "User09",
+      "expires": "2026-05-05"
+    },
+    {
+      "key": "9f1a0a97-b5a3-d211-2323-aaaaaaaaaaaa",
+      "user": "User10",
+      "expires": "LIFETIME"
     }
   ]
 }
