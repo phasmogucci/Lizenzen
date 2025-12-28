@@ -1,4 +1,4 @@
 OFF
-b85224c9-60bb-4d5b-8623-a778176c6b59,2026-12-31
+b85224c9-60bb-4d5b-8623-a778176c6b59,lifetime
 uuid2,lifetime
 uuid3,2026-01-15
